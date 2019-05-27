@@ -5,6 +5,8 @@ When the birds in the background chirp loudly, the fire reacts by launching a bi
 The grass in the scene is created using a ShaderGraph, which uses a noise function to create a swaying effect.
 The parameters of this effect are controlled by the keyboard.
 
+All of the shaders and scripts used in this project are included in the Assets folder.
+
 ## Controls
 | Key        | Action           |
 | ------------- |:-------------:|
